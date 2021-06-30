@@ -1,0 +1,10 @@
+{
+  "picBed": {
+    "uploader": "smms",
+    "smms": {
+        "token": "xxxxx"
+    },
+    "current": "smms"
+  },
+  "picgoPlugins": {}
+}
